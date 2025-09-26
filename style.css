@@ -1,0 +1,25 @@
+.cronometro {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 50px;
+}
+
+#display {
+  display: block;
+  margin: auto;
+  font-size: 3em;
+  margin-bottom: 20px;
+  background-color: blue;   
+  width: 400px;
+  color: white;
+  border-radius: 10px;
+}
+
+button {
+  font-size: 1em;
+  margin: 5px;
+  padding: 10px 20px;
+  font-weight: 600;
+  background-color: lightblue;
+  border-radius: 10px;
+}
